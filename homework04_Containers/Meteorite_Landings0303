@@ -1,0 +1,4 @@
+'___Meteor sites___'
+[{"siteID": 1, "latitude": 17.7188021, "longitude": 84.102851, "composition": "iron"}, {"siteID": 2, "latitude": 16.6744966, "longitude": 84.7930448, "composition": "stony"}, {"siteID": 3, "latitude": 17.9892538, "longitude": 82.2609403, "composition": "stony-iron"}, {"siteID": 4, "latitude": 16.2259547, "longitude": 83.1439923, "composition": "stony"}, {"siteID": 5, "latitude": 17.9774762, "longitude": 83.8643663, "composition": "iron"}]
+'___Hemisphere summary___'
+{"North & Eastern": 0, "North & Western": 5, "North & Prime Merdian": 0, "South & Eastern": 0, "South & Western": 0, "South & Prime Merdian": 0, "Equator & Eastern": 0, "Equator & Western": 0, "Equator & Prime Merdian": 0}

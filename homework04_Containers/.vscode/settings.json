@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "Docker-exercise"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
